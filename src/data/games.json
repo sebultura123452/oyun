@@ -1,0 +1,129 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "title": "Hafıza Ustası",
+      "description": "3D efektlerle zenginleştirilmiş, çok seviyeli hafıza oyunu! Eşleştirdiğin kartlar özel animasyonlarla canlanıyor.",
+      "thumbnail": "https://images.unsplash.com/photo-1606167668584-78701c57f13d?w=500&q=80",
+      "category": "Eğitici",
+      "plays": 156789,
+      "tags": ["hafıza", "3d", "animasyon"],
+      "component": "MemoryMatch",
+      "ageRange": "4-12",
+      "isNew": true,
+      "isPopular": true
+    },
+    {
+      "id": "2",
+      "title": "Neon Yılan",
+      "description": "Neon efektli, modern bir yılan oyunu! Özel güçler ve benzersiz mekaniklerle klasik oyun yeniden doğuyor.",
+      "thumbnail": "https://images.unsplash.com/photo-1614294148960-9aa740632a87?w=500&q=80",
+      "category": "Klasik",
+      "plays": 189234,
+      "tags": ["neon", "arcade", "modern"],
+      "component": "SnakeGame",
+      "ageRange": "5-12",
+      "isNew": false,
+      "isPopular": true
+    },
+    {
+      "id": "3",
+      "title": "Matematik Kahramanı",
+      "description": "RPG tarzında matematik macerası! Problemleri çöz, karakterini geliştir ve matematik dünyasını kurtar!",
+      "thumbnail": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=500&q=80",
+      "category": "Matematik",
+      "plays": 145678,
+      "tags": ["rpg", "matematik", "macera"],
+      "component": "Game2048",
+      "ageRange": "7-12",
+      "isNew": true,
+      "isPopular": true
+    },
+    {
+      "id": "4",
+      "title": "Kristal Tetris",
+      "description": "3D efektler ve parçacık sistemleriyle görsel şölen sunan modern Tetris deneyimi!",
+      "thumbnail": "https://images.unsplash.com/photo-1642411867508-4f4cb72e8e61?w=500&q=80",
+      "category": "Klasik",
+      "plays": 234567,
+      "tags": ["3d", "puzzle", "efekt"],
+      "component": "Tetris",
+      "ageRange": "6-12",
+      "isNew": true,
+      "isPopular": true
+    },
+    {
+      "id": "7",
+      "title": "Futbol Yıldızı",
+      "description": "Gerçekçi fizik motoruyla futbol deneyimi! Özel vuruşlar ve taktik oynanış.",
+      "thumbnail": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=500&q=80",
+      "category": "Spor",
+      "plays": 234567,
+      "tags": ["futbol", "fizik", "taktik"],
+      "component": "FootballGame",
+      "ageRange": "6-14",
+      "isNew": true,
+      "isPopular": true
+    },
+    {
+      "id": "13",
+      "title": "Basketbol Şampiyonu",
+      "description": "Gerçekçi fizik ve kontroller ile basketbol deneyimi! Özel hareketler ve turnuva modu.",
+      "thumbnail": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=500&q=80",
+      "category": "Spor",
+      "plays": 198765,
+      "tags": ["basketbol", "fizik", "turnuva"],
+      "component": "BasketballGame",
+      "ageRange": "6-14",
+      "isNew": false,
+      "isPopular": true
+    },
+    {
+      "id": "19",
+      "title": "Voleybol Turnuvası",
+      "description": "Dinamik voleybol maçları! Takımını seç ve şampiyonluğa ulaş.",
+      "thumbnail": "https://images.unsplash.com/photo-1592656094267-764a45160876?w=500&q=80",
+      "category": "Spor",
+      "plays": 167890,
+      "tags": ["voleybol", "turnuva", "spor"],
+      "component": "VolleyballGame",
+      "ageRange": "8-14",
+      "isNew": false,
+      "isPopular": false
+    }
+  ],
+  "categories": [
+    {
+      "id": "educational",
+      "name": "Eğitici",
+      "slug": "egitici",
+      "description": "Eğlenerek öğrenme oyunları",
+      "gameCount": 1,
+      "icon": "GraduationCap"
+    },
+    {
+      "id": "classic",
+      "name": "Klasik",
+      "slug": "klasik",
+      "description": "Zamansız klasik oyunlar",
+      "gameCount": 2,
+      "icon": "History"
+    },
+    {
+      "id": "math",
+      "name": "Matematik",
+      "slug": "matematik",
+      "description": "Matematik becerilerini geliştiren oyunlar",
+      "gameCount": 1,
+      "icon": "Calculator"
+    },
+    {
+      "id": "sports",
+      "name": "Spor",
+      "slug": "spor",
+      "description": "Spor temalı eğlenceli oyunlar",
+      "gameCount": 3,
+      "icon": "Trophy"
+    }
+  ]
+}

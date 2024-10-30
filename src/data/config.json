@@ -1,0 +1,52 @@
+{
+  "site": {
+    "name": "GameVerse",
+    "description": "En iyi ücretsiz HTML5 oyunlarını oyna. Aksiyon, macera, yarış ve daha fazlası. Milyonlarca oyuncuya katıl!",
+    "keywords": "online oyunlar, html5 oyunlar, ücretsiz oyunlar, tarayıcı oyunları, aksiyon oyunları, macera oyunları",
+    "url": "https://gameverse.com",
+    "logo": "/logo.svg",
+    "themeColor": "#4F46E5",
+    "socialImage": "https://gameverse.com/social-share.jpg",
+    "twitterHandle": "@gameverse",
+    "contactEmail": "info@gameverse.com",
+    "language": "tr",
+    "socialHandles": {
+      "facebook": "gameverse",
+      "twitter": "gameverse",
+      "instagram": "gameverse",
+      "youtube": "gameverse"
+    }
+  },
+  "api": {
+    "rapidApiKey": "107156a14mshc6d7e5ea8298ebep1d1f35jsnc726914a9dce",
+    "cache": {
+      "enabled": true,
+      "duration": 3600000
+    },
+    "retryAttempts": 3,
+    "timeout": 10000
+  },
+  "adsense": {
+    "enabled": true,
+    "clientId": "ca-pub-XXXXXXXXXXXXXXXX",
+    "slots": {
+      "header": "1234567890",
+      "sidebar": "0987654321",
+      "gameTop": "1122334455",
+      "gameBottom": "5544332211",
+      "responsive": "6677889900"
+    }
+  },
+  "analytics": {
+    "enabled": true,
+    "googleAnalyticsId": "G-XXXXXXXXXX"
+  },
+  "games": {
+    "defaultThumbnailSize": "500x300",
+    "iframeSettings": {
+      "allowFullscreen": true,
+      "sandbox": "allow-scripts allow-same-origin allow-popups allow-forms",
+      "allow": "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    }
+  }
+}

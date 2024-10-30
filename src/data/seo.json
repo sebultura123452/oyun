@@ -1,0 +1,20 @@
+{
+  "default": {
+    "title": "GameVerse - Free Online HTML5 Games",
+    "description": "Play the best free online HTML5 games on GameVerse. New games added daily, featuring action, adventure, racing, and more. Join millions of players now!",
+    "keywords": "online games, html5 games, free games, browser games, action games, adventure games, racing games",
+    "ogImage": "https://example.com/images/gameverse-og.jpg"
+  },
+  "routes": {
+    "/": {
+      "title": "GameVerse - Play Free Online HTML5 Games",
+      "description": "Discover and play the best free online HTML5 games. New games added daily with high-quality graphics and smooth gameplay. Join millions of players now!",
+      "keywords": "free online games, html5 games, browser games, multiplayer games"
+    },
+    "/categories": {
+      "title": "Game Categories - GameVerse",
+      "description": "Browse our collection of free online games by category. Find action, adventure, racing, puzzle games and more. New games added regularly!",
+      "keywords": "game categories, online game genres, free game categories"
+    }
+  }
+}
